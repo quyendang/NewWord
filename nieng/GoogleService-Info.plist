@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>127024822384-9t21pujamhhrrbrihrg8kk6mvb5ku8ij.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.127024822384-9t21pujamhhrrbrihrg8kk6mvb5ku8ij</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDnq8axXTQbJdRQPpf0HT-lYiC8H2CVOYM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>127024822384</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.vlstudio.wordsnew</string>
+	<key>PROJECT_ID</key>
+	<string>nieng-9b82a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nieng-9b82a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:127024822384:ios:4d11910bb70f279a3a9cb5</string>
+	<key>DATABASE_URL</key>
+	<string>https://nieng-9b82a-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
